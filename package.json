@@ -1,10 +1,10 @@
 {   
   "name" : "nodetime", 
   "version" : "0.4.0",
-  "description" : "Performance Profiler",
+  "description" : "Performance Profiler and Monitor",
   "author": "Dmitri Melikyan <dmitri@rapidlogix.com>", 
   "homepage": "http://nodetime.com", 
-  "keywords": ["profiler", "profiling", "tracing", "cpu", "heap", "performance", "instrumentation", "response time", "performance", "bottlenecks", "monitoring", "analytics", "metrics", "dtrace"],
+  "keywords": ["profiler", "profiling", "tracing", "cpu", "heap", "performance", "instrumentation", "response time", "performance", "bottlenecks", "monitoring", "analytics", "metrics", "alerts", "dtrace"],
   "contributors": [
   ],
   "main": "./index.js",
