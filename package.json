@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dmelikyan/nodetime.git"
+    "url": "git://github.com/nodetime/nodetime.git"
   }, 
   "dependencies": {
     "agent.io": "*"
@@ -41,6 +41,6 @@
   }, 
   "licenses": [{ 
     "type": "MIT",
-    "url": "http://github.com/dmelikyan/nodetime/raw/master/LICENSE"
+    "url": "http://github.com/nodetime/nodetime/raw/master/LICENSE"
   }]
 }
