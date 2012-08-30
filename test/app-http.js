@@ -22,12 +22,9 @@
  */
 
 
-var nodetime = require('nodetime');
-nodetime.on('session', function(token) { 
-  //console.log('session', token);
-});
+var nodetime = require('../lib/nodetime');
 nodetime.on('sample', function(sample) { 
-  //console.log('sample');
+  //console.log(sample);
 });
 
 nodetime.profile({debug: true, headless: false});
